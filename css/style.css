@@ -193,7 +193,7 @@ margin-right: 50px;
     width: 13px;
     height: 17px;
     margin-right: 10px;
-    background: url(/img/SSL.png) center center no-repeat transparent;
+    background: url(/one-page-lending/img/SSL.png) center center no-repeat transparent;
     background-size: contain;
     transform: translateY(-1px);
 }
@@ -366,15 +366,15 @@ color: #1c1c1c;
 }
 
 .section-contacts__icon-gps {
-    background-image: url(/img/gps.png);
+    background-image: url(/one-page-lending/img/gps.png);
 }
 
 .section-contacts__icon-phone {
-    background-image: url(/img/phone.png);
+    background-image: url(/one-page-lending/img/phone.png);
 }
 
 .section-contacts__icon-mail {
-    background-image: url(/img/mail.png);
+    background-image: url(/one-page-lending/img/mail.png);
     background-size: auto 19px;
 }
 
@@ -482,7 +482,7 @@ margin-right: 30px;
 }
 
 .footer__social-icon-twitter {
-    background-image: url(/img/tw.svg);
+    background-image: url(/one-page-lending/img/tw.svg);
     width: 18px;
     height: 15px;
 }
@@ -495,14 +495,14 @@ margin-right: 30px;
 .footer__social-icon-ld {
     width: 18px;
     height: 19px;
-    background-image: url(/img/in.svg);
+    background-image: url(/one-page-lending/img/in.svg);
     transform: translateY(-2px);
 }
 
 .footer__social-icon-email {
     width: 24px;
     height: 17px;
-    background-image: url(/img/email.svg);
+    background-image: url(/one-page-lending/img/email.svg);
 }
 
 .footer__copyrights {
